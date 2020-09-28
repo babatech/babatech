@@ -15,9 +15,6 @@
 [](https://github.com/babatech)
 
 <br><br>
-## I am a Full Stack Engineer.
-> Always eager to learn new technologies and develop new projects. Determined to complete any task in hand.
-## My GitHub Stats
 
 ## Technologies
  
@@ -38,6 +35,9 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 </code>
 </p>
+
+
+## My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babatech&theme=gotham" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=babatech&show_icons=true&hide=contribs,issues&theme=gotham" />
