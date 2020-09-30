@@ -31,6 +31,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />
@@ -40,6 +41,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
+<img height="32" width="32" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" />
 </code>
 </p>
 
