@@ -3,13 +3,14 @@
 
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
 
-- 💻 I'm a Full Stack Engineer
+- 💻 I'm a Full Stack Engineer working in [Dennemeyer Octimine GmbH](https://www.octimine.com/ "Dennemeyer Octimine GmbH") based in Munich
 
 - 🎓 I have Master degree from University of Applied science, Kiel
 
 - 🌱 Always eager to learn new technologies and develop new projects. Determined to complete any task in hand
 
-- 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/babatech" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
+
+- 👨‍💻 You can see reviews for my freelance experience [here on fiverr](https://www.fiverr.com/babatech "Shahab Shakoor fiverr profile"). Some of my projects are available here --> <code><a href="https://github.com/babatech" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/babatech)
 
 <br><br>
@@ -23,6 +24,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
@@ -32,6 +34,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />
@@ -52,11 +55,15 @@ Improved the user experience and performance by revamping the UI from vue to ang
  <code>
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" />
  </code>
 </p>
 
