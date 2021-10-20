@@ -9,8 +9,6 @@
 
 - 🌱 Always eager to learn new technologies and develop new projects. Determined to complete any task in hand
 
-- 🕵️‍♂️ I'm a good goolger
-
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/babatech" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/babatech)
 
@@ -20,19 +18,21 @@
  
 <p align="left">
 <code>
+ 
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
@@ -45,6 +45,60 @@
 </code>
 </p>
 
+## Top projects
+### [Octimine](https://app.octimine.com/ "Octimine") 
+Improved the user experience and performance by revamping the UI from vue to angular. Design and implement new features for the main application.
+<p>
+ <code>
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+ </code>
+</p>
+
+### [Reeperbahn festival](https://www.reeperbahnfestival.com/de/startseite "Reeperbahn festival")
+Improve UI/UX for the reeperbahn festival website for 2017-2018 events. Streamlined the payment flows and events search algorithm
+<p>
+ <code>
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
+ </code>
+</p>
+
+###  [GeRDI](https://www.gerdi-project.eu/ "GeRDI")
+Part of the core team working on the research data and journals search engine platform for collaboration of scientific data and research journals among European research institutes. Optimized application API interface with consumer driven contract testing framework to reduce time by ~25%.
+<p>
+ <code>
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+ </code>
+</p>
+
+### [NOVA - Corporate Website](https://www.kampmann.de/nova "NOVA - Corporate Website")
+Revampe UI/UX for the Corporate Website of NOVA.
+<p>
+ <code>
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
+ </code>
+</p>
+
+<br>
 
 ## My GitHub Stats
 
