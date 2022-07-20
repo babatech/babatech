@@ -1,17 +1,18 @@
-# Hello, I am Shahab 🖖 <img src="https://komarev.com/ghpvc/?username=babatech&label=Profile+Views" />
+# I'm Shahab Shakoor from Pakistan
 
 
 - 💻 I'm a Full Stack Engineer working in [Dennemeyer Octimine GmbH](https://www.octimine.com/ "Dennemeyer Octimine GmbH") based in Munich
 
-- 🎓 I have Master degree from University of Applied science, Kiel
+- 🎓 I have Master degree from University of Applied science, Kiel, Germany
 
 - 🌱 Always eager to learn new technologies and develop new projects. Determined to complete any task in hand
-
 
 - 👨‍💻 You can see reviews for my freelance experience [here on fiverr](https://www.fiverr.com/babatech "Shahab Shakoor fiverr profile"). Some of my projects are available here --> <code><a href="https://github.com/babatech" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/babatech)
 
-<br><br>
+Thanks for visiting!
+
+<br>
 
 ## Technologies
  
@@ -117,3 +118,6 @@ Revampe UI/UX for the Corporate Website of NOVA.
     <a href="https://www.linkedin.com/in/shahabshakoor"><img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="30px" alt="LinkedIn">     </a> &nbsp; &nbsp;
     <a href="mailto:shahabi1209@gmail.com"><img alt="Gmail" src="https://saberenemquimicaefisica.com.br/wp/wp-content/uploads/2019/05/gmail.png" title="Email" width="30px" /></a>  &nbsp; &nbsp;
 </p>
+
+
+ <img src="https://komarev.com/ghpvc/?username=babatech&label=Profile+Views" />
